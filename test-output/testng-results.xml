@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="13" passed="13" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-16T15:43:25 IST" name="Default Suite" finished-at="2022-03-16T15:43:36 IST" duration-ms="10971">
+    <groups>
+    </groups>
+    <test started-at="2022-03-16T15:43:25 IST" name="RestAssuredFramework" finished-at="2022-03-16T15:43:36 IST" duration-ms="10971">
+      <class name="FinalFrameworkTest">
+        <test-method signature="checkingStatusCode()[pri:1, instance:FinalFrameworkTest@68567e20]" started-at="2022-03-16T15:43:25 IST" name="checkingStatusCode" finished-at="2022-03-16T15:43:27 IST" duration-ms="1368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkingStatusCode -->
+        <test-method signature="FetchingData()[pri:2, instance:FinalFrameworkTest@68567e20]" started-at="2022-03-16T15:43:27 IST" name="FetchingData" finished-at="2022-03-16T15:43:29 IST" duration-ms="2123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FetchingData -->
+        <test-method signature="AssertionHamcrestValidation_1()[pri:3, instance:FinalFrameworkTest@68567e20]" started-at="2022-03-16T15:43:29 IST" name="AssertionHamcrestValidation_1" finished-at="2022-03-16T15:43:29 IST" duration-ms="724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AssertionHamcrestValidation_1 -->
+        <test-method signature="AssertionHamcrestValidation_2()[pri:4, instance:FinalFrameworkTest@68567e20]" started-at="2022-03-16T15:43:29 IST" name="AssertionHamcrestValidation_2" finished-at="2022-03-16T15:43:30 IST" duration-ms="300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AssertionHamcrestValidation_2 -->
+        <test-method signature="addUserByDataPOJO()[pri:5, instance:FinalFrameworkTest@68567e20]" started-at="2022-03-16T15:43:30 IST" name="addUserByDataPOJO" finished-at="2022-03-16T15:43:30 IST" duration-ms="728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addUserByDataPOJO -->
+        <test-method signature="addPagesBYPagesPOJO()[pri:6, instance:FinalFrameworkTest@68567e20]" started-at="2022-03-16T15:43:30 IST" name="addPagesBYPagesPOJO" finished-at="2022-03-16T15:43:31 IST" duration-ms="612" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addPagesBYPagesPOJO -->
+        <test-method signature="getParticularUsersById()[pri:7, instance:FinalFrameworkTest@68567e20]" started-at="2022-03-16T15:43:31 IST" name="getParticularUsersById" finished-at="2022-03-16T15:43:32 IST" duration-ms="627" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getParticularUsersById -->
+        <test-method signature="updateUserByDataPOJO()[pri:8, instance:FinalFrameworkTest@68567e20]" started-at="2022-03-16T15:43:32 IST" name="updateUserByDataPOJO" finished-at="2022-03-16T15:43:32 IST" duration-ms="609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUserByDataPOJO -->
+        <test-method signature="updateUserByPagesPOJO()[pri:9, instance:FinalFrameworkTest@68567e20]" started-at="2022-03-16T15:43:32 IST" name="updateUserByPagesPOJO" finished-at="2022-03-16T15:43:33 IST" duration-ms="1010" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUserByPagesPOJO -->
+        <test-method signature="RegisterSuccessful()[pri:10, instance:FinalFrameworkTest@68567e20]" started-at="2022-03-16T15:43:33 IST" name="RegisterSuccessful" finished-at="2022-03-16T15:43:34 IST" duration-ms="1023" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegisterSuccessful -->
+        <test-method signature="RegisterUnSuccessful()[pri:11, instance:FinalFrameworkTest@68567e20]" started-at="2022-03-16T15:43:34 IST" name="RegisterUnSuccessful" finished-at="2022-03-16T15:43:35 IST" duration-ms="511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegisterUnSuccessful -->
+        <test-method signature="LoginSuccessful()[pri:12, instance:FinalFrameworkTest@68567e20]" started-at="2022-03-16T15:43:35 IST" name="LoginSuccessful" finished-at="2022-03-16T15:43:35 IST" duration-ms="611" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginSuccessful -->
+        <test-method signature="LoginUnSuccessful()[pri:13, instance:FinalFrameworkTest@68567e20]" started-at="2022-03-16T15:43:35 IST" name="LoginUnSuccessful" finished-at="2022-03-16T15:43:36 IST" duration-ms="641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginUnSuccessful -->
+      </class> <!-- FinalFrameworkTest -->
+    </test> <!-- RestAssuredFramework -->
+  </suite> <!-- Default Suite -->
+</testng-results>
